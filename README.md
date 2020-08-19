@@ -4,8 +4,20 @@ Source code will not work without the Turtle module
 
 For the Turtle module:
 
+
+
 sudo apt-get update
+
+
+
 sudo apt-get upgrade
-python3 -m pip install --user PythonTurtle or pip install turtle
+
+
+
+python3 -m pip install --user PythonTurtle 
+
+or 
+
+pip install turtle
 
 You can install supplements by entering lines of code into the terminal
